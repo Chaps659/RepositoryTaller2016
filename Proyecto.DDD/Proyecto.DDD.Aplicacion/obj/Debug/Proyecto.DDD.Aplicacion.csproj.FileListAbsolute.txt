@@ -1,0 +1,5 @@
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Aplicacion\bin\Debug\Proyecto.DDD.Aplicacion.dll
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Aplicacion\bin\Debug\Proyecto.DDD.Aplicacion.pdb
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Aplicacion\obj\Debug\Proyecto.DDD.Aplicacion.csprojResolveAssemblyReference.cache
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Aplicacion\obj\Debug\Proyecto.DDD.Aplicacion.dll
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Aplicacion\obj\Debug\Proyecto.DDD.Aplicacion.pdb

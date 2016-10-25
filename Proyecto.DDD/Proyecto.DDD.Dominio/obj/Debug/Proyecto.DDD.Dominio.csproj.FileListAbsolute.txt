@@ -1,0 +1,15 @@
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\bin\Debug\Proyecto.DDD.Dominio.dll
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\bin\Debug\Proyecto.DDD.Dominio.pdb
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.dll
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.pdb
+E:\GitHub\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Chaps\Desktop\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\bin\Debug\Proyecto.DDD.Dominio.dll
+C:\Users\Chaps\Desktop\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\bin\Debug\Proyecto.DDD.Dominio.pdb
+C:\Users\Chaps\Desktop\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Chaps\Desktop\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.dll
+C:\Users\Chaps\Desktop\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.pdb
+E:\VisualSave\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.csprojResolveAssemblyReference.cache
+E:\VisualSave\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.dll
+E:\VisualSave\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\obj\Debug\Proyecto.DDD.Dominio.pdb
+E:\VisualSave\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\bin\Debug\Proyecto.DDD.Dominio.dll
+E:\VisualSave\RepositorioProyectoBeta\Proyecto.DDD\Proyecto.DDD.Dominio\bin\Debug\Proyecto.DDD.Dominio.pdb
